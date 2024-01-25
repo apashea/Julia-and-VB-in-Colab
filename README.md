@@ -12,7 +12,7 @@ This is a simple primer script for setting up and using Julia and the RxInfer pa
 
 RxInfer:
   - ReactiveBayes / BIASlab, https://github.com/ReactiveBayes/RxInfer.jl
-
+  - Reactive framework and RxInfer.jl package: https://www.youtube.com/watch?v=qXrvDVm_fnE
 Original template link:
   - https://colab.research.google.com/github/ageron/julia_notebooks/blob/master/Julia_Colab_Notebook_Template.ipynb
 
