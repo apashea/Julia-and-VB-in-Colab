@@ -17,4 +17,5 @@ Original template link:
   - https://colab.research.google.com/github/ageron/julia_notebooks/blob/master/Julia_Colab_Notebook_Template.ipynb
 
 RxInfer/VB Tutorial reference:
+  - https://www.youtube.com/watch?v=_vVHWzK9NEI
   - https://www.youtube.com/watch?v=qnj0PKc734g
