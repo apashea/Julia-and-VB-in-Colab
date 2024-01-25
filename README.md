@@ -17,6 +17,6 @@ This is a simple primer script for setting up and using Julia and the RxInfer pa
 ##### Original Julia in Colab template link:
   - https://colab.research.google.com/github/ageron/julia_notebooks/blob/master/Julia_Colab_Notebook_Template.ipynb
 
-##### RxInfer/VB Tutorial reference:
+##### RxInfer/VB tutorials referenced:
   - https://www.youtube.com/watch?v=_vVHWzK9NEI
   - https://www.youtube.com/watch?v=qnj0PKc734g
