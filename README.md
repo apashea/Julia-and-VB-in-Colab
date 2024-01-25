@@ -6,7 +6,7 @@ In-browser viewable link:
 
 ### References:
   - Julia: A Fresh Approach to Numerical Computing. Jeff Bezanson, Alan Edelman, Stefan Karpinski, Viral B. Shah. (2017) SIAM Review, 59: 65–98. doi: 10.1137/141000671. pdf.
-  - Message Passing and Reactive framework: Dimtry Bagaev and Bert de Vries, "Reactive Message Passing for Scalable Bayesian Inference", *Hindawi; Scientific Programming* (2023).  https://doi.org/10.1155/2023/6601690
+  - Message Passing and Reactive framework: Reactive Message Passing for Scalable Bayesian Inference. Dimtry Bagaev and Bert de Vries. (2023) Hindawi; Scientific Programming, .  https://doi.org/10.1155/2023/6601690
 
 
 RxInfer:
