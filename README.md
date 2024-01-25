@@ -2,11 +2,12 @@
 This is a simple primer script for setting up and using Julia and the RxInfer package for variational Bayesian inference. 
 
 In-browser viewable link:
-  - https://colab.research.google.com/drive/1KuCAymdBYapTML1XhKx_oW4JUwZKBl6o#scrollTo=W8b0mkTy5-r1
+  
 
 ### References:
-Julia:
   - Julia: A Fresh Approach to Numerical Computing. Jeff Bezanson, Alan Edelman, Stefan Karpinski, Viral B. Shah. (2017) SIAM Review, 59: 65–98. doi: 10.1137/141000671. pdf.
+  - Message Passing and Reactive framework: Dimtry Bagaev and Bert de Vries, "Reactive Message Passing for Scalable Bayesian Inference", *Hindawi; Scientific Programming* (2023).  https://doi.org/10.1155/2023/6601690
+
 
 RxInfer:
   - ReactiveBayes / BIASlab, https://github.com/ReactiveBayes/RxInfer.jl
