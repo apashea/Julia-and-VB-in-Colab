@@ -1,5 +1,5 @@
 # Julia-and-VB-in-Colab
-This is a simple primer script for setting up and using Julia and the RxInfer package for variational Bayesian inference. 
+This is a simple primer script for setting up and using Julia and the RxInfer package for message passing and variational Bayesian inference. 
 
 ##### In-browser viewable link:
 - https://colab.research.google.com/drive/1KPTWUZad8jiJi12CckClig9MgSBGu1Et?usp=sharing
