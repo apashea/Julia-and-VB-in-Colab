@@ -10,12 +10,13 @@ This is a simple primer script for setting up and using Julia and the RxInfer pa
   - Message Passing and Reactive framework: Reactive Message Passing for Scalable Bayesian Inference. Dimtry Bagaev and Bert de Vries. (2023) Hindawi; Scientific Programming, .  https://doi.org/10.1155/2023/6601690
 
 
-RxInfer:
+##### RxInfer:
   - ReactiveBayes / BIASlab, https://github.com/ReactiveBayes/RxInfer.jl
   - Reactive framework and RxInfer.jl package: https://www.youtube.com/watch?v=qXrvDVm_fnE
-Original template link:
+
+##### Original Julia in Colab template link:
   - https://colab.research.google.com/github/ageron/julia_notebooks/blob/master/Julia_Colab_Notebook_Template.ipynb
 
-RxInfer/VB Tutorial reference:
+##### RxInfer/VB Tutorial reference:
   - https://www.youtube.com/watch?v=_vVHWzK9NEI
   - https://www.youtube.com/watch?v=qnj0PKc734g
