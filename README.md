@@ -12,6 +12,8 @@ This is a simple primer script for setting up and using Julia and the RxInfer pa
 
 ##### RxInfer:
   - ReactiveBayes / BIASlab, https://github.com/ReactiveBayes/RxInfer.jl
+  - RxInfer: A Julia package for reactive real-time
+Bayesian inference. Dmitry Bagaev, Albert Podusenko, and Bert de Vries. The Journal of Open Source Software (2023). https://joss.theoj.org/papers/10.21105/joss.05161
   - Reactive framework and RxInfer.jl package: https://www.youtube.com/watch?v=qXrvDVm_fnE
 
 ##### Original Julia in Colab template link:
